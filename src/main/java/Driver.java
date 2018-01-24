@@ -5,6 +5,8 @@ public class Driver {
 		// TODO Auto-generated method stub
 		System.out.println(new Joueur("Estelle",25,"Equipe 21"));
 
+		System.out.println("----------------------------------------------------------------------------------\nEND TEST");
+
 	}
 
 }
